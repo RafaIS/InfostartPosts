@@ -9,7 +9,7 @@ jobs:
         contents: write
     steps:
 
-      - uses: RafaIS/infometrics-articles@1.1
+      - uses: RafaIS/infometrics-articles@1.2
         with:
           profile-id: '1370964'                 # ID профиля Infostart
           count: '3'                            # Количество выводимых статей. Необязательно, по умолчанию - 3, Максимум - 10
