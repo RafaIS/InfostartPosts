@@ -1,4 +1,4 @@
-name: Infostat
+name: Infostart
 on:
   schedule: [{cron: "0 0 * * *"}] # Расписание выполнения. В данном примере - каждый день в 0.00
   workflow_dispatch:
@@ -9,10 +9,8 @@ jobs:
         contents: write
     steps:
 
-      - uses: RafaIS/infometrics-articles@1.2
+      - uses: bayselonarrend/infometrics-articles@1.2
         with:
           profile-id: '1370964'                 # ID профиля Infostart
-          count: '3'                            # Количество выводимых статей. Необязательно, по умолчанию - 3, Максимум - 10
-          # readme-file: './README.md'            # Путь к Readme файлу. Необязательно, по умолчанию - ./README.md (Регистр важен!)
-          # template: './tm.html'                 # Путь к шаблону. См. далее. Необязательно, по умолчанию - стандартный шаблон
-          
+          count: '3'                            # Количество выводимых публикаций. Необязательно, по умолчанию - 3, Максимум - 10
+          readme-file: './README.md'            # Путь к Readme файлу. Необязательно, по умолчанию - ./README.md (Регистр важен!)
