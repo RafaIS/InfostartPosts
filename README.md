@@ -1,74 +1,74 @@
 ﻿<div id="infostart_posts">
 
 
-> <img src="https://infostart.ru/upload/iblock/d40/d40a01b127b5a6a2d3307310255cbdc8.png?5cd294f6-864c-44dc-aa78-098ce8d32f66" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/d40/d40a01b127b5a6a2d3307310255cbdc8.png?bb6e9d43-a8df-41b0-bb93-4b8ddb4a0272" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/public/2016164/">Открытый пакет интеграций для популярных API: Telegram, VK, Viber, Bitrix24 и многих других</a></h4>
-> <small>Open-source набор библиотек интеграции с популярными сервисами: методы для 21-го популярного API, поставка в виде расширения, OneScript-пакета и даже полноценного приложения для командной строки, подробная документация. И все это абсолютно бесплатно!</small>  
+> <small>Open-source набор библиотек интеграции с популярными сервисами: методы для 25-и популярных API, поставка в виде расширения, OneScript-пакета и даже полноценного приложения для командной строки, подробная документация. И все это абсолютно бесплатно!</small>  
 > <br clear="left">
 >
-> | :star: +156 |  :calendar: 15.01.2024 |  :speech_balloon: 24 |  :eyes: 11567 |
+> | :star: +156 |  :calendar: 15.01.2024 |  :speech_balloon: 24 |  :eyes: 11596 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/b0c/b0cf13b2b5e88908f85501244b36d63d.png?d1825c06-da0c-43e2-af6e-3476f2f4ef01" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/b0c/b0cf13b2b5e88908f85501244b36d63d.png?35e3c536-bf28-4966-90b4-ae162ef04cda" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/public/2507970/">Защищенный обмен через SSH и SFTP для 1С (open-source)</a></h4>
 > <small>Библиотека для работы с протоколами SSH и SFTP на основе внешней компоненты. Для Linux и Windows, бесплатно и с открытым исходным кодом!</small>  
 > <br clear="left">
 >
-> | :star: +49 |  :calendar: 20.10.2025 |  :speech_balloon: 1 |  :eyes: 2932 |
+> | :star: +49 |  :calendar: 20.10.2025 |  :speech_balloon: 1 |  :eyes: 2973 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/171/171445c119e88d175125be4aea5a8f97.png?92d8beb5-863c-460a-9d8b-498f07f27094" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/171/171445c119e88d175125be4aea5a8f97.png?ca454b20-c6e5-46f9-b2d0-2d22c6ac628c" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/public/2436813/">Коннектор MSSQL для 1С (open-source)</a></h4>
 > <small>Библиотека для работы с базами MS SQL Server на основе внешней компоненты. Для Linux и Windows, бесплатно и с открытым исходным кодом!</small>  
 > <br clear="left">
 >
-> | :star: +54 |  :calendar: 21.07.2025 |  :speech_balloon: 6 |  :eyes: 5517 |
+> | :star: +54 |  :calendar: 21.07.2025 |  :speech_balloon: 6 |  :eyes: 5525 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/7bd/7bd95d88d63bfaceeffaac4ac596f63e.png?1204e60f-3c95-4333-8d75-29e0cc241782" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/7bd/7bd95d88d63bfaceeffaac4ac596f63e.png?a2bf5fb6-277b-4f2e-8772-a0144a07f612" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/public/2409085/">Библиотека для работы с OpenAI API в 1С и OneScript (open-source)</a></h4>
 > <small>Библиотека работы с LLM через OpenAI API для 1С:Предприятие и OneScript. Бесплатно, с открытым исходным кодом и документацией!</small>  
 > <br clear="left">
 >
-> | :star: +60 |  :calendar: 22.06.2025 |  :speech_balloon: 22 |  :eyes: 7270 |
+> | :star: +60 |  :calendar: 22.06.2025 |  :speech_balloon: 22 |  :eyes: 7279 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/566/566c2c1192e61a86fa323e8ed5eed85f.png?34fd5879-a0b1-4250-ae8a-06ac319baced" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/566/566c2c1192e61a86fa323e8ed5eed85f.png?be7321d6-998b-477c-ac9e-fc822da5ea7b" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/public/2376175/">Библиотека для работы с Ollama (open-source)</a></h4>
 > <small>Библиотека работы с AI моделями через Ollama API для 1С:Предприятие и OneScript. Бесплатно, с открытым исходным кодом и документацией!</small>  
 > <br clear="left">
 >
-> | :star: +43 |  :calendar: 05.05.2025 |  :speech_balloon: 20 |  :eyes: 5506 |
+> | :star: +43 |  :calendar: 05.05.2025 |  :speech_balloon: 20 |  :eyes: 5524 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/5cc/5cc4af98732e4717faed1a96d180d25e.png?09ea9c2d-6150-4e52-8dce-8b5df5a93132" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/5cc/5cc4af98732e4717faed1a96d180d25e.png?db3c8bc8-80f7-4fd9-8a60-fe78cfb3d4e9" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/public/2402538/">Melezh: ваш персональный центр интеграций с внешними API и сервисами</a></h4>
 > <small>Знакомьтесь, Melezh - ваш новый помощник в преодолении хаоса при работе с разрозненными API, сервисами и технологиями. Он позволяет быстро и прозрачно настроить единый HTTP API для вызова функций Открытого пакета интеграций и произвольных OneScript-модулей, со встроенным логированием и возможностью устанавливать значения параметров по умолчанию</small>  
 > <br clear="left">
 >
-> | :star: +65 |  :calendar: 09.06.2025 |  :speech_balloon: 9 |  :eyes: 5287 |
+> | :star: +65 |  :calendar: 09.06.2025 |  :speech_balloon: 9 |  :eyes: 5302 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/8c3/8c3c2027159494b60a3f4babf26545c9.png?bd183b27-25f7-494c-b155-0abac53d58c0" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/8c3/8c3c2027159494b60a3f4babf26545c9.png?3c9a3331-f688-447a-8cfb-cc84d0a50586" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/public/2357834/">Коннектор MySQL для 1С и OneScript (open-source)</a></h4>
 > <small>Библиотека для работы с базами MySQL на основе внешней компоненты. Для Linux и Windows, бесплатно и с открытым исходным кодом!</small>  
 > <br clear="left">
 >
-> | :star: +50 |  :calendar: 08.04.2025 |  :speech_balloon: 27 |  :eyes: 5237 |
+> | :star: +50 |  :calendar: 08.04.2025 |  :speech_balloon: 27 |  :eyes: 5242 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/221/221fc9f8fb100305e5ee8365a9b7b7d8.png?5256a627-6d68-41ce-9881-eb4ec83c4b07" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/221/221fc9f8fb100305e5ee8365a9b7b7d8.png?b92b1985-3fb1-48bb-8dfa-6af9ff8f4522" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/public/2327294/">Библиотека для работы с WhatsApp через GreenAPI (open-source)</a></h4>
 > <small>Новые методы в составе Открытого пакета интеграций для работы с WhatsApp через провайдера GreenAPI: отправка и получение сообщений, управление группами, настройки аккаунта. Бесплатно и с открытым исходным кодом!</small>  
 > <br clear="left">
 >
-> | :star: +37 |  :calendar: 19.03.2025 |  :speech_balloon: 5 |  :eyes: 4120 |
+> | :star: +37 |  :calendar: 19.03.2025 |  :speech_balloon: 5 |  :eyes: 4131 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/027/0276af23bd12f0739e975b91f2f48412.png?28b648c3-d56a-49e0-b2f3-06020f4bc70c" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/027/0276af23bd12f0739e975b91f2f48412.png?84fead87-e758-4cc2-b0b2-cfe22ac93dab" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/public/2038960/">Библиотека работы с Яндекс Диском: делаем простейший менеджер облака за 15 минут (open-source)</a></h4>
 > <small>Новая библиотека в составе Открытого пакета интеграций для работы с Яндекс Диском. Описание методов, пример работы и немного про ОПИ для тех, кто не знает</small>  
 > <br clear="left">
 >
-> | :star: +59 |  :calendar: 12.02.2024 |  :speech_balloon: 19 |  :eyes: 7015 |
+> | :star: +59 |  :calendar: 12.02.2024 |  :speech_balloon: 19 |  :eyes: 7035 |
 >  |-|-|-|-|  
-> <img src="https://infostart.ru/upload/iblock/c8a/c8a93dc4bacf9dd7d148d721cbb91629.png?3698911c-5556-444e-a957-8f431cba569e" width="96" align="left"> 
+> <img src="https://infostart.ru/upload/iblock/c8a/c8a93dc4bacf9dd7d148d721cbb91629.png?f01dc176-62ec-4130-b2b2-5ead285bd208" width="96" align="left"> 
 > <h4 style="color: white;"><a href="https://infostart.ru/public/2314338/">Коннектор PostgreSQL для 1С и OneScript (open-source)</a></h4>
 > <small>Библиотека для работы с базами PostgreSQL на основе внешней компоненты. Для Linux и Windows, бесплатно и с открытым исходным кодом!</small>  
 > <br clear="left">
 >
-> | :star: +47 |  :calendar: 20.02.2025 |  :speech_balloon: 30 |  :eyes: 6906 |
+> | :star: +47 |  :calendar: 20.02.2025 |  :speech_balloon: 30 |  :eyes: 6920 |
 >  |-|-|-|-|  
 </div>
